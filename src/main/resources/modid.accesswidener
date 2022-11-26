@@ -1,0 +1,9 @@
+accessWidener v1 named
+
+accessible method  	net/minecraft/entity/player/PlayerEntity dropInventory	()V
+accessible	field 	net/minecraft/entity/LivingEntity			HEALTH		Lnet/minecraft/entity/data/TrackedData;
+mutable		field	net/minecraft/entity/player/PlayerEntity	inventory	Lnet/minecraft/entity/player/PlayerInventory;
+accessible 	field	net/minecraft/entity/player/PlayerEntity	inventory	Lnet/minecraft/entity/player/PlayerInventory;
+mutable 	field 	net/minecraft/screen/slot/Slot 				inventory 	Lnet/minecraft/inventory/Inventory;
+accessible field  	net/minecraft/entity/Entity					dataTracker	Lnet/minecraft/entity/data/DataTracker;
+accessible	field	net/minecraft/entity/LivingEntity			dead		Z
